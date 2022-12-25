@@ -1,10 +1,13 @@
-# Robust Logo Detection in E-Commerce Images by Data Augmentation
+# Robust Logo Detection in E-Commerce Images by Data Augmentation (MM 2021)
 
 This is the code of our solution for the [ACM MM2021 Robust Logo Detection Grand Challenge](https://s.alibaba.com/challenge/ACMMM2021ChallengeRobustLogoDetection/). 
 The competition is hold on [TIANCHI platform](https://tianchi.aliyun.com/competition/entrance/531888/introduction) and requires the detection of logos (515 categories) in e-commerce images. 
-It is challenged by long-tail distribution, small objects, and different types of noises. To overcome these challenges, we built a highly optimized and robust detector. A detailed introduction of our solution can be found [here](https://dl.acm.org/doi/abs/10.1145/3474085.3479227?casa_token=6yqQQw5Oj1gAAAAA:OGGaM7lwVk3ZplppxnZFzHtoDdyb-blNdfVCkAOriq5simpVJ6rNy-LyYSy9542Kh4HkKqFBud90). 
+It is challenged by long-tail distribution, small objects, and different types of noises. To overcome these challenges, we built a highly optimized and robust detector. More detailed can be found in our [paper](https://dl.acm.org/doi/abs/10.1145/3474085.3479227?casa_token=6yqQQw5Oj1gAAAAA:OGGaM7lwVk3ZplppxnZFzHtoDdyb-blNdfVCkAOriq5simpVJ6rNy-LyYSy9542Kh4HkKqFBud90). 
 We ranked 5/36489 in the competition.
 
+<p align="center">
+<img src="dataset.png" width="90%" alt="dataset"/>
+</p>
 
 ## Requirements
 
